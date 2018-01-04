@@ -1,2 +1,2 @@
 # go_test
-xxx
+xxxx
